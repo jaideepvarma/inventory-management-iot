@@ -25,7 +25,7 @@ This IoT-based inventory monitoring system tracks stock levels of two products (
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/iot-inventory-management
+   git clone https://github.com/jaideepvarma/iot-inventory-management
    ```
 2. **Navigate to the project directory:**
    ```bash
